@@ -51,7 +51,7 @@ The neural network used to create the model has the following characteristics:
 |Metric|Value|
 |:---|---:|
 |R-Squared (train)|0.9974559414984706|
-|R-Squared|0.988579310366157|
+|R-Squared|0.9934014479377135|
 |Mean Absolute Error|0.06405685077016317|
 |Mean Absolute Percentage Error|24.720600483659982|
 |Mean Squared Error|0.010621614314503598|
